@@ -22,6 +22,7 @@ public class ValidateTitle extends base {
 		driver.get(prop.getProperty("url"));
 		log.info("Navigated to homepage");
 		log.info("Navigated to home");
+		log.info("Navigated to home1");
 		//driver.manage().window().maximize();
 	}
 	
@@ -40,6 +41,8 @@ public class ValidateTitle extends base {
 	    //use below to get screenshot
 	    //Assert.assertEquals(ipage.getTitle().getText(),"FEATURED COURSES123");
 	    log.info("Successfully validate Text Message");
+	    log.info("Successfully validate Text Message1");
+	    log.info("Successfully validate Text Message2");
 	}
 	@AfterTest
 	public void teardown()
