@@ -21,6 +21,7 @@ public class ValidateTitle extends base {
 		log.info("Driver is initialize");
 		driver.get(prop.getProperty("url"));
 		log.info("Navigated to homepage");
+		log.info("Navigated to home");
 		//driver.manage().window().maximize();
 	}
 	
