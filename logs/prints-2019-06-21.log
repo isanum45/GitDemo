@@ -1,0 +1,8 @@
+11:43:09.700 [main] INFO  Resources.base - Driver is initialize
+11:43:15.526 [main] INFO  Resources.base - Navigated to Browser with URL
+11:43:16.002 [main] INFO  Resources.base - Navigation bar is displayed
+11:43:19.027 [main] INFO  Resources.base - Driver is initialize
+11:43:27.708 [main] INFO  Resources.base - Navigated to Browser with Url
+11:43:31.936 [main] INFO  Resources.base - restricteduser
+11:43:35.748 [main] INFO  Resources.base - Navigated to Browser with Url
+11:43:37.856 [main] INFO  Resources.base - nonrestricteduser
